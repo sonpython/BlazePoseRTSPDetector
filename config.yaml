@@ -1,6 +1,6 @@
 name: BlazePose RTSP Detector
 version: "1.0"
-slug: blazepose_rtsp_detector
+slug: BlazeposeRTSPDetector
 description: A BlazePose detector for RTSP stream.
 arch:
   - armv7
