@@ -1,0 +1,11 @@
+opencv-python-headless
+mediapipe
+quart
+google
+matplotlib
+Pillow
+pyparsing
+cycler
+python-dateutil
+kiwisolver
+attrs
